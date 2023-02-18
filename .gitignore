@@ -1,0 +1,4 @@
+*.log
+/new-dir/
+static/new-dir/
+bataexcelfile.accdb
